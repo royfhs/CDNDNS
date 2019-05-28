@@ -10,10 +10,9 @@
 PHP >= 5.0
 MySQL >= 8.0
 ## 预装工具
-本工程需要使用部分开源工具，故需要提前部署到使用环境中。
-Nping
-Ping
-Curl
+- Nping
+- Ping
+- Curl
 
 
 
